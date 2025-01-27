@@ -48,7 +48,7 @@ tsconfig.json
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/jebcdev/BaseExpressTypescriptServer
+   git clone https://github.com/jebcdev/base-express-typescript-server
    ```
 2. Instala las dependencias:
    ```sh
